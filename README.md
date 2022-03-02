@@ -20,3 +20,17 @@
 ![Quarta faixa](https://github.com/Bessa1/playlist/blob/main/img/play6.png)
 ## Quinta Música: 
 ![Quinta Música](https://github.com/Bessa1/playlist/blob/main/img/play4.png)
+# Pratos que eu gosto:
+## Primeiro prato:
+![Quinta Música](https://github.com/Bessa1/Meu-site/blob/main/prints/p1.png)
+## Segundo prato:
+![Quinta Música](https://github.com/Bessa1/Meu-site/blob/main/prints/p2.png)
+## Terceiro prato:
+![Quinta Música](https://github.com/Bessa1/Meu-site/blob/main/prints/p3.png)
+# Pratos que gostaria de provar:
+## Primeiro prato:
+![Quinta Música](https://github.com/Bessa1/Meu-site/blob/main/prints/p4.png)
+## Segundo prato:
+![Quinta Música](https://github.com/Bessa1/Meu-site/blob/main/prints/p5.png)
+## Terceiro prato:
+![Quinta Música](https://github.com/Bessa1/Meu-site/blob/main/prints/p6.png)
